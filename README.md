@@ -3,7 +3,7 @@
 
 
 
-Program assignments answers to the Machine learning courses taught by Andrew Ng in stanford, offered by coursera.
+Answers to the program assignments of Machine learning courses taught by Andrew Ng in stanford, offered by coursera.
 
 These files are my answers to the assignments which had received full scores from coursera.
 

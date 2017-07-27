@@ -45,6 +45,13 @@
 
   Leave comments here if you know what's wrong with the code or better implementation.  
 
+<br>
+<br>
+
+#Update on July 27th, 2017
+------------
+ex6;
+<br>
 
 
 

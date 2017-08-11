@@ -31,7 +31,7 @@
 <br>
 <br>
 
-#Update on July 22th, 2017
+#Update on July 22nd, 2017
 ------------
   ex1~ex5;
 
@@ -57,6 +57,12 @@ ex6;
 #Update on Aug 5th, 2017
 ------------
 ex7;
+<br>
+<br>
+
+#Update on Aug 11th, 2017
+------------
+ex8;
 <br>
 <br>
 

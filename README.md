@@ -23,8 +23,6 @@
 >>Octave/Matlab environment
 
 
->>A not-very-slow processor/GPU
-
 >>I recommend Octave which you can download form https://www.gnu.org/software/octave/ for different platforms.
 
 

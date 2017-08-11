@@ -64,7 +64,5 @@ ex8;
 <br>
 <br>
 
-First on github desktop
--------------------
 
 

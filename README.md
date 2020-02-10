@@ -20,10 +20,9 @@
 
 ## Requirement
 ------------
->>Octave/Matlab environment
+>Octave/Matlab environment
 
-
->>I recommend Octave which you can download form https://www.gnu.org/software/octave/ for different platforms.
+>I recommend Octave which you can download form https://www.gnu.org/software/octave/ for different platforms.
 
 
 <br>
@@ -31,7 +30,7 @@
 
 ## Update on July 22nd, 2017
 ------------
-  ex1~ex5;
+  ex1~ex5
 
   There are some small bugs in ex5: 
 
@@ -48,19 +47,19 @@
 
 ## Update on July 27th, 2017
 ------------
-ex6;
+ex6
 <br>
 <bt>
 
 ## Update on Aug 5th, 2017
 ------------
-ex7;
+ex7
 <br>
 <br>
 
 ## Update on Aug 11th, 2017
 ------------
-ex8;
+ex8
 <br>
 <br>
 

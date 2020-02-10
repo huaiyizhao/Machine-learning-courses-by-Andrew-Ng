@@ -12,13 +12,13 @@
 <br>
 
 
-#Fully completed
+# Fully completed
 ------
 
 <br>
 <br>
 
-#Requirement
+# Requirement
 ------------
 >>Octave/Matlab environment
 
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-#Update on July 22nd, 2017
+# Update on July 22nd, 2017
 ------------
   ex1~ex5;
 
@@ -46,19 +46,19 @@
 <br>
 <br>
 
-#Update on July 27th, 2017
+# Update on July 27th, 2017
 ------------
 ex6;
 <br>
 <bt>
 
-#Update on Aug 5th, 2017
+# Update on Aug 5th, 2017
 ------------
 ex7;
 <br>
 <br>
 
-#Update on Aug 11th, 2017
+# Update on Aug 11th, 2017
 ------------
 ex8;
 <br>
